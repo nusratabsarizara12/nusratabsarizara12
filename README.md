@@ -1,20 +1,20 @@
-# Hi there! 👋 I'm **Nusrat Absari Zara**
+# <p align="center"> Hi there! 👋 I'm <strong>Nusrat Absari Zara</strong></p>
 
 ---
 
-## 👀 About Me
+## <p style="background-color:#f0f8ff; padding: 10px; border-radius: 10px;">👀 About Me</p>
 I'm a passionate programmer and developer with a keen interest in creating innovative solutions. Currently, I'm pursuing my studies at **United International University**, where I'm honing my skills in various programming languages and development frameworks.
 
 ---
 
-## 🌱 Currently Studying
+## <p style="background-color:#e6e6fa; padding: 10px; border-radius: 10px;">🌱 Currently Studying</p>
 - **University:** United International University
 - **Degree:** Bachelor of Science in Computer Science
 - **Focus Areas:** Web Development
 
 ---
 
-## 💻 Skills
+## <p style="background-color:#fafad2; padding: 10px; border-radius: 10px;">💻 Skills</p>
 
 ### 🛠 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -67,9 +67,8 @@ I'm a passionate programmer and developer with a keen interest in creating innov
   - API integration
   - Deployment on AWS -->
 
----
 
-## 📚 Education
+## <p style="background-color:#ffe4e1; padding: 10px; border-radius: 10px;">📚 Education</p>
 **United International University**  
 *Bachelor of Science in Computer Science*  
 
@@ -86,21 +85,17 @@ I'm a passionate programmer and developer with a keen interest in creating innov
 - **[Achievement 2](#):** A brief description of the achievement.
 - **[Achievement 3](#):** A brief description of the achievement. -->
 
----
-
-## 📫 How to Reach Me
+## <p style="background-color:#98fb98; padding: 10px; border-radius: 10px;">📫 How to Reach Me</p>
 - **Email:** [nusratabsarizara@gmail.com](mailto:nusratabsarizara@gmail.com)
 <!-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)-->
 - **GitHub:** [github.com/nusratabsari12](https://github.com/nusratabsari12)
 
 ---
 
-## 📈 GitHub Stats
-![Nusrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusratabsari12&show_icons=true&theme=radical)
+<!--## 📈 GitHub Stats
+![Nusrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusratabsari12&show_icons=true&theme=radical)-->
 
----
-
-## 🤝 Let's Connect
+## <p style="background-color:#e0ffff; padding: 10px; border-radius: 10px;">🤝 Let's Connect</p>
 Feel free to reach out for collaboration, questions, or just a friendly hello!
 
 ---
